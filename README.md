@@ -28,7 +28,7 @@ PC-A → S1 → R1 → PC-B
 Pengujian konektivitas dilakukan menggunakan perintah ping antara PC-A, PC-B, dan interface router.
 
 ### Video Praktikum
-[Klik di sini untuk melihat video praktikum](MASUKKAN_LINK_YOUTUBE_DI_SINI)
+[Klik di sini untuk melihat video praktikum](https://youtu.be/-rkvfayupNQ)
 
 ### File Packet Tracer
 File konfigurasi Cisco Packet Tracer tersedia pada folder `packet-tracer`.
