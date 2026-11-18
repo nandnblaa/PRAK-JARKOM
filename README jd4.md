@@ -27,4 +27,4 @@ Pengujian juga dilakukan dengan menghubungkan perangkat ke jaringan Wi-Fi "AP Ja
 Apabila proses login berhasil dan halaman status Hotspot ditampilkan, maka konfigurasi autentikasi MikroTik dengan FreeRADIUS dan daloRADIUS telah berhasil dilakukan.
 
 ### Video Praktikum
-[Klik di sini untuk melihat video praktikum](https://youtu.be/_cCS0LFSMEE)
+[Klik di sini untuk melihat video praktikum](https://youtu.be/pRGraqnIqJI)
